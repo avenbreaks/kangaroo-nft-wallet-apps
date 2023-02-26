@@ -1,0 +1,18 @@
+export default {
+  _062812: require('../assets/images/062812.png'),
+  JulianWanWNoLnJo7tS8Unsplash: require('../assets/images/JulianWanWNoLnJo7tS8Unsplash.jpg'),
+  Rectangle2899: require('../assets/images/Rectangle2899.png'),
+  Group1031: require('../assets/images/Group1031.png'),
+  DirectUp: require('../assets/images/DirectUp.png'),
+  BusinesspeopleMeetingOfficeWorking2: require('../assets/images/BusinesspeopleMeetingOfficeWorking2.png'),
+  Rectangle38321: require('../assets/images/Rectangle38321.png'),
+  Image22: require('../assets/images/Image22.png'),
+  Image23: require('../assets/images/Image23.png'),
+  Image24: require('../assets/images/Image24.png'),
+  Image25: require('../assets/images/Image25.png'),
+  QRCode: require('../assets/images/QRCode.png'),
+  Group427320172: require('../assets/images/Group427320172.png'),
+  RicardoGomezAngelUD5drKd4H6wUnsplash1: require('../assets/images/RicardoGomezAngelUD5drKd4H6wUnsplash1.jpg'),
+  Rectangle29001: require('../assets/images/Rectangle29001.png'),
+  BusinesspeopleMeetingOfficeWorking21: require('../assets/images/BusinesspeopleMeetingOfficeWorking21.png'),
+};
